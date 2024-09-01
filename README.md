@@ -63,4 +63,8 @@ Feel free to connect with me on LinkedIn to discuss my internship experience and
 
 ---
 
+### **Submission:**
+
+I will be sharing a detailed video showcasing my completed tasks and key learnings on LinkedIn. Please check it out and leave your feedback!
+
 Thank you for checking out my journey in data analytics. Let's grow and learn together! 🌱
