@@ -7,6 +7,12 @@ During my internship at TechnoHacks Edutech, I completed several key data analyt
 
 ---
 
+### **About TechnoHacks Edutech:**
+
+TechnoHacks Edutech is an ISO 9001:2015 certified company providing top-notch IT training and innovative products to help businesses and individuals excel in the tech landscape. Learn more about them [here](http://www.technohacks.co.in).
+
+---
+
 ### **Tasks Completed:**
 
 1. **Data Cleaning:**
@@ -58,9 +64,3 @@ Feel free to connect with me on LinkedIn to discuss my internship experience and
 ---
 
 Thank you for checking out my journey in data analytics. Let's grow and learn together! 🌱
-
----
-
-### **About TechnoHacks Edutech:**
-
-TechnoHacks Edutech is an ISO 9001:2015 certified company providing top-notch IT training and innovative products to help businesses and individuals excel in the tech landscape. Learn more about them [here](http://www.technohacks.co.in).
