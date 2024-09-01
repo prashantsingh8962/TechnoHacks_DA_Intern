@@ -1,4 +1,4 @@
-# TechnoHacks Data Analyst Intern
+# TechnoHacks Data Analyst Internship
 
 
 **Welcome to my Data Analytics Internship Journey!** 🚀
