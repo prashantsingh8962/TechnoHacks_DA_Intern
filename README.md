@@ -46,14 +46,6 @@ During my internship at TechnoHacks Edutech, I completed several key data analyt
 
 ---
 
-### **How to Use This Repository:**
-
-- **Data Cleaning Scripts:** Explore the `data_cleaning.py` file to understand how missing values and outliers were handled.
-- **Statistical Analysis:** Check the `statistics_analysis.py` file for code on calculating summary statistics.
-- **Visualization Examples:** Visit the `visualizations.ipynb` notebook to see the histograms and bar charts created.
-- **Pivot Table Instructions:** Open `pivot_table_guide.xlsx` for step-by-step guidance on creating pivot tables.
-- **Dashboards:** Review the `PowerBI_Dashboard.pbix` and `Tableau_Dashboard.twb` files for interactive dashboards.
-  
 ### **Key Learnings:**
 
 - The importance of data cleaning and preparation for accurate analysis.
