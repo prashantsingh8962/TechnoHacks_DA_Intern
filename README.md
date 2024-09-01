@@ -1,4 +1,4 @@
-# TechnoHacks_Intern
+# TechnoHacks Data Analyst Intern
 
 
 **Welcome to my Data Analytics Internship Journey!** 🚀
@@ -66,7 +66,7 @@ During my internship at TechnoHacks Edutech, I completed several key data analyt
 ### **Connect with Me:**
 
 Feel free to connect with me on LinkedIn to discuss my internship experience and explore more data analytics insights!  
-**[My LinkedIn Profile](https://www.linkedin.com/in/yourprofilelink)**
+**[My LinkedIn Profile](https://www.linkedin.com/in/prashantsingh896/)**
 
 ---
 
