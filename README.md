@@ -34,12 +34,7 @@ During my internship at TechnoHacks Edutech, I completed several key data analyt
    - **Tools Used:** PowerBI
    - **Outcome:** A dynamic dashboard that provides a comprehensive view of the data for stakeholders.
 
-6. **Dashboard Creation in Tableau:**
-   - Built a dashboard in Tableau to showcase insights from the dataset with interactive features and filters.
-   - **Tools Used:** Tableau
-   - **Outcome:** An engaging and interactive dashboard that supports data-driven decision-making.
-
-7. **Duplicate Data Removal:**
+6. **Duplicate Data Removal:**
    - Identified and removed duplicate values from datasets to ensure data accuracy.
    - **Tools Used:** Python (Pandas), Excel
    - **Outcome:** Clean and accurate datasets ready for analysis.
